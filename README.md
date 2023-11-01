@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:miladkaarandish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/html.svg" alt="Email Badge"/>
   </a>
   <a href="https://t.me/MiladKaarandish">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -41,4 +41,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <!-- TypeScript -->
   <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <!-- React -->
+  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <!-- Next.js -->
+  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nextjs.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <!-- Node.js -->
+  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 </div>
