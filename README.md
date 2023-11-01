@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Show case -->
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100" alt="programmer-gif" />
 </div>
 
 <!-- Contact -->
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/milad-karandish">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -143,6 +143,9 @@ front-end web developer with more than
 ### 🌟 Excellent understanding of UX and UI, SEO and best practices
 
 ## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiladKarandish&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladKarandish)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MiladKarandish&theme=transparent&hide_border=true&exclude_days=Thu%2CFri" alt="GitHub Streak" /></a>
+  <br />
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladKarandish" alt="GitHub Streak" /></a>
+</div>
