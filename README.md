@@ -143,9 +143,7 @@ front-end web developer with more than
 ### 🌟 Excellent understanding of UX and UI, SEO and best practices
 
 ## :fire: My Stats :
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MiladKarandish&theme=transparent&hide_border=true&exclude_days=Thu%2CFri" alt="GitHub Streak" /></a>
-  <br />
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladKarandish" alt="GitHub Streak" /></a>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MiladKarandish&theme=transparent&hide_border=true&exclude_days=Thu%2CFri" alt="GitHub Streak" /></a>
+<br />
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiladKarandish" alt="GitHub Streak" /></a>
