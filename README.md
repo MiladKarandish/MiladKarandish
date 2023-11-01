@@ -38,7 +38,8 @@ front-end web developer with more than
 <!-- Skills -->
 ## :hammer_and_wrench: Skills :
 
-### 🖥️ Languages:
+<!-- 🖥️ -->
+### Languages:
 <div>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
@@ -50,7 +51,8 @@ front-end web developer with more than
   </a>&nbsp;
 </div>
 
-### 📚🌐 Libraries & Frameworks:
+<!-- 📚🌐 -->
+### Libraries & Frameworks:
 <div>
  <!-- React -->
   <a href="https://react.dev" target="_blank" >
@@ -74,7 +76,8 @@ front-end web developer with more than
   </a>
 </div>
 
-### 🤝 API:
+<!-- 🤝 -->
+### API:
 <div>
   <!-- RestfulAPI -->
   <a href="https://restfulapi.net" target="_blank" >
@@ -86,7 +89,8 @@ front-end web developer with more than
   </a>&nbsp;
 </div>
 
-### 🗃️ Databases:
+<!-- 🗃️ -->
+### Databases:
 <div>
  <!-- MongoDB -->
   <a href="https://www.mongodb.com" target="_blank" >
@@ -94,7 +98,8 @@ front-end web developer with more than
   </a>
 </div>
 
-### 📝 CMS:
+<!-- 📝 -->
+### CMS:
 <div>
  <!-- Strapi -->
   <a href="https://strapi.io" target="_blank" >
@@ -106,7 +111,8 @@ front-end web developer with more than
   </a>
 </div>
 
-### 🔬 Other Techs:
+<!-- 🔬 -->
+### Other Techs:
 <div>
  <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >
