@@ -38,9 +38,9 @@ front-end web developer with more than
 3 years of experience.
 
 <!-- Skills -->
-## 💻 Skills :
+## :hammer_and_wrench: Skills :
 
-### 💡 Languages:
+### 🖥️ Languages:
 <div>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
@@ -108,7 +108,7 @@ front-end web developer with more than
   </a>
 </div>
 
-### :hammer_and_wrench: Other Techs:
+### 🔬 Other Techs:
 <div>
  <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >
