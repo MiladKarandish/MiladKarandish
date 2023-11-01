@@ -141,3 +141,8 @@ front-end web developer with more than
 </div>
 
 ### 🌟 Excellent understanding of UX and UI, SEO and best practices
+
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiladKarandish&theme=dark&background=000000)](https://git.io/streak-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladKarandish)](https://github.com/anuraghazra/github-readme-stats)
