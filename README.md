@@ -79,11 +79,11 @@ front-end web developer with more than
 ### :hammer_and_wrench: API:
 <div>
   <!-- RestfulAPI -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+  <a href="https://restfulapi.net" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/restfulapi.svg" title="RestfulAPI" alt="RestfulAPI" width="40" height="40"   title="RestfulAPI"   />
   </a>&nbsp;
   <!-- GraphQL -->
-  <a href="https://www.typescriptlang.org" target="_blank" >
+  <a href="https://graphql.org" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/graphql.svg" title="GraphQL" alt="GraphQL" width="40" height="40" title="GraphQL"   />
   </a>&nbsp;
 </div>
