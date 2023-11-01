@@ -42,17 +42,31 @@ Here are some ideas to get you started:
 
 <div>
   <!-- HTML -->
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/html.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/html.svg" title="HTML5" alt="HTML" width="40" height="40" title="HTML" />
+  </a>&nbsp;
   <!-- CSS -->
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/css.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/css.svg" title="CSS3" alt="CSS" width="40" height="40" title="CSS" />
+  </a>&nbsp;
   <!-- JavaScript -->
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" title="JavaScript" />
+  </a>&nbsp;
   <!-- TypeScript -->
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" title="TypeScript" />
+  </a>&nbsp;
   <!-- React -->
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <a href="https://react.dev" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40" title="React" />
+  </a>&nbsp;
   <!-- Next.js -->
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nextjs.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <a href="https://nextjs.org" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nextjs.svg" title="Next.js" alt="Next.js" width="40" height="40" title="Next.js" />&nbsp;
+  </a>
   <!-- Node.js -->
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <a href="https://nodejs.org/en" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
+  </a>
 </div>
