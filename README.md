@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100" alt="programmer-gif" />
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/milad-karandish">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -33,5 +33,12 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <!-- HTML -->
+  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/html.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <!-- CSS -->
+  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/css.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <!-- JavaScript -->
+  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <!-- TypeScript -->
+  <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
