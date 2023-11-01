@@ -44,11 +44,11 @@ front-end web developer with more than
 <div>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
-    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" title="JavaScript" />
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" title="JavaScript"   />
   </a>&nbsp;
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org" target="_blank" >
-    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" title="TypeScript" />
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" title="TypeScript"   />
   </a>&nbsp;
 </div>
 
@@ -66,25 +66,47 @@ front-end web developer with more than
   <a href="https://nodejs.org/en" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
   </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com" target="_blank" >
-    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
-  </a>
   <!-- Express -->
-  <a href="https://www.mongodb.com" target="_blank" >
+  <a href="https://expressjs.com" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/express.svg" title="MongoDB" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
   </a>
   <!-- Sass -->
-  <a href="https://www.mongodb.com" target="_blank" >
+  <a href="https://sass-lang.com" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/sass.svg" title="Sass" alt="Sass" width="40" height="40" title="Sass" />&nbsp;
   </a>
 </div>
 
 ### :hammer_and_wrench: API:
+<div>
+  <!-- RestfulAPI -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/restfulapi.svg" title="RestfulAPI" alt="RestfulAPI" width="40" height="40"   title="RestfulAPI"   />
+  </a>&nbsp;
+  <!-- GraphQL -->
+  <a href="https://www.typescriptlang.org" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/graphql.svg" title="GraphQL" alt="GraphQL" width="40" height="40" title="GraphQL"   />
+  </a>&nbsp;
+</div>
 
 ### :hammer_and_wrench: Databases:
+<div>
+ <!-- MongoDB -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
+  </a>
+</div>
 
 ### :hammer_and_wrench: CMS:
+<div>
+ <!-- Strapi -->
+  <a href="https://strapi.io" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/strapi.svg" title="Strapi" alt="Strapi" width="40" height="40" title="Strapi" />&nbsp;
+  </a>
+ <!-- Contentful -->
+  <a href="https://www.contentful.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/contentful.svg" title="Contentful" alt="Contentful" width="40" height="40" title="Contentful" />&nbsp;
+  </a>
+</div>
 
 ### :hammer_and_wrench: Other Tech:
 
