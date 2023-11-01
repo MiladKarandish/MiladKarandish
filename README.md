@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <!-- About me -->
 
 ### :woman_technologist: About Me :
+front-end web developer with more than 
+3 years of experience.
 
 <!-- Languages and tools -->
 
@@ -73,8 +75,15 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
   </a>
-  <!-- MongoDB -->
+  <br />
+  <!-- Express -->
   <a href="https://www.mongodb.com" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/express.svg" title="MongoDB" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
   </a>
+  <!-- Sass -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/sass.svg" title="Sass" alt="Sass" width="40" height="40" title="Sass" />&nbsp;
+  </a>
 </div>
+
+### :hammer_and_wrench: Languages and Tools :
