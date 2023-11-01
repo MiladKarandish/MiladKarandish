@@ -109,5 +109,35 @@ front-end web developer with more than
 </div>
 
 ### :hammer_and_wrench: Other Tech:
+<div>
+ <!-- HTML -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/html.svg" title="HTML" alt="HTML" width="40" height="40" title="HTML" />&nbsp;
+  </a>
+ <!-- CSS -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/css.svg" title="CSS" alt="CSS" width="40" height="40" title="CSS" />&nbsp;
+  </a>
+ <!-- PWA -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/pwa.svg" title="PWA" alt="PWA" width="40" height="40" title="PWA" />&nbsp;
+  </a>
+ <!-- Webpack -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40" title="Webpack" />&nbsp;
+  </a>
+ <!-- Github -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/github.svg" title="Github" alt="Github" width="40" height="40" title="Github" />&nbsp;
+  </a>
+ <!-- Socket.io -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/socketio.svg" title="Socket.io" alt="Socket.io" width="40" height="40" title="Socket.io" />&nbsp;
+  </a>
+ <!-- EsBuild -->
+  <a href="https://www.mongodb.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/esbuild.svg" title="EsBuild" alt="EsBuild" width="40" height="40" title="EsBuild" />&nbsp;
+  </a>
+</div>
 
 ### Excellent understanding of UX and UI, SEO and best practices
