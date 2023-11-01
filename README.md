@@ -14,21 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Show case -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100" alt="programmer-gif" />
 </div>
 
+<!-- Contact -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/milad-karandish">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:miladkaarandish@gmail.com">
-    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/email.svg" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/MiladKaarandish">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+<!-- About me -->
+
+### :woman_technologist: About Me :
+
+<!-- Languages and tools -->
 
 ### :hammer_and_wrench: Languages and Tools :
 
