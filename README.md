@@ -33,24 +33,15 @@ Here are some ideas to get you started:
 </div>
 
 <!-- About me -->
-
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 front-end web developer with more than 
 3 years of experience.
 
-<!-- Languages and tools -->
+<!-- Skills -->
+## :woman_technologist: Skills :
 
-### :hammer_and_wrench: Languages and Tools :
-
+### :hammer_and_wrench: Languages:
 <div>
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >
-    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/html.svg" title="HTML5" alt="HTML" width="40" height="40" title="HTML" />
-  </a>&nbsp;
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" >
-    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/css.svg" title="CSS3" alt="CSS" width="40" height="40" title="CSS" />
-  </a>&nbsp;
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" title="JavaScript" />
@@ -59,7 +50,11 @@ front-end web developer with more than
   <a href="https://www.typescriptlang.org" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" title="TypeScript" />
   </a>&nbsp;
-  <!-- React -->
+</div>
+
+### :hammer_and_wrench: Libraries & Frameworks:
+<div>
+ <!-- React -->
   <a href="https://react.dev" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40" title="React" />
   </a>&nbsp;
@@ -75,7 +70,6 @@ front-end web developer with more than
   <a href="https://www.mongodb.com" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
   </a>
-  <br />
   <!-- Express -->
   <a href="https://www.mongodb.com" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/express.svg" title="MongoDB" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
@@ -86,4 +80,12 @@ front-end web developer with more than
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: API:
+
+### :hammer_and_wrench: Databases:
+
+### :hammer_and_wrench: CMS:
+
+### :hammer_and_wrench: Other Tech:
+
+### Excellent understanding of UX and UI, SEO and best practices
