@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 </div>
 
 <!-- About me -->
-## :woman_technologist: About Me :
+## 👋 About Me :
 front-end web developer with more than 
 3 years of experience.
 
 <!-- Skills -->
-## :woman_technologist: Skills :
+## 💻 Skills :
 
-### :hammer_and_wrench: Languages:
+### 💡 Languages:
 <div>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
@@ -52,7 +52,7 @@ front-end web developer with more than
   </a>&nbsp;
 </div>
 
-### :hammer_and_wrench: Libraries & Frameworks:
+### 📚🌐 Libraries & Frameworks:
 <div>
  <!-- React -->
   <a href="https://react.dev" target="_blank" >
@@ -76,7 +76,7 @@ front-end web developer with more than
   </a>
 </div>
 
-### :hammer_and_wrench: API:
+### 🤝 API:
 <div>
   <!-- RestfulAPI -->
   <a href="https://restfulapi.net" target="_blank" >
@@ -88,7 +88,7 @@ front-end web developer with more than
   </a>&nbsp;
 </div>
 
-### :hammer_and_wrench: Databases:
+### 🗃️ Databases:
 <div>
  <!-- MongoDB -->
   <a href="https://www.mongodb.com" target="_blank" >
@@ -96,7 +96,7 @@ front-end web developer with more than
   </a>
 </div>
 
-### :hammer_and_wrench: CMS:
+### 📝 CMS:
 <div>
  <!-- Strapi -->
   <a href="https://strapi.io" target="_blank" >
@@ -108,7 +108,7 @@ front-end web developer with more than
   </a>
 </div>
 
-### :hammer_and_wrench: Other Tech:
+### :hammer_and_wrench: Other Techs:
 <div>
  <!-- HTML -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >
@@ -140,4 +140,4 @@ front-end web developer with more than
   </a>
 </div>
 
-### Excellent understanding of UX and UI, SEO and best practices
+### 🌟 Excellent understanding of UX and UI, SEO and best practices
