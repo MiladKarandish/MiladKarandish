@@ -74,6 +74,10 @@ front-end web developer with more than
   <a href="https://sass-lang.com" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/sass.svg" title="Sass" alt="Sass" width="40" height="40" title="Sass" />&nbsp;
   </a>
+  <!-- Redux -->
+  <a href="https://sass-lang.com" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/redux.svg" title="Redux" alt="Redux" width="40" height="40" title="Redux" />&nbsp;
+  </a>
 </div>
 
 <!-- 🤝 -->
