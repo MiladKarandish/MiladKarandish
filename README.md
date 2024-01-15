@@ -33,14 +33,18 @@ Here are some ideas to get you started:
 </div>
 
 <!-- About me -->
+
 ## :woman_technologist: About Me :
-front-end web developer with more than 
+
+front-end web developer with more than
 3 years of experience.
 
 <!-- Skills -->
+
 ## :woman_technologist: Skills :
 
 ### :hammer_and_wrench: Languages:
+
 <div>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
@@ -53,6 +57,7 @@ front-end web developer with more than
 </div>
 
 ### :hammer_and_wrench: Libraries & Frameworks:
+
 <div>
  <!-- React -->
   <a href="https://react.dev" target="_blank" >
@@ -61,6 +66,14 @@ front-end web developer with more than
   <!-- Next.js -->
   <a href="https://nextjs.org" target="_blank" >
     <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nextjs.svg" title="Next.js" alt="Next.js" width="40" height="40" title="Next.js" />&nbsp;
+  </a>
+  <!-- Vue.js -->
+  <a href="https://vuejs.org" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/vuejs.svg" title="Vue.js" alt="Vue.js" width="40" height="40" title="Vue.js" />&nbsp;
+  </a>
+  <!-- Vue.js -->
+  <a href="https://nuxtjs.org" target="_blank" >
+    <img src="https://github.com/MiladKarandish/MiladKarandish/blob/main/icons/nuxtjs.svg" title="Nuxt.js" alt="Nuxt.js" width="40" height="40" title="Nuxt.js" />&nbsp;
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/en" target="_blank" >
@@ -77,6 +90,7 @@ front-end web developer with more than
 </div>
 
 ### :hammer_and_wrench: API:
+
 <div>
   <!-- RestfulAPI -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
@@ -89,6 +103,7 @@ front-end web developer with more than
 </div>
 
 ### :hammer_and_wrench: Databases:
+
 <div>
  <!-- MongoDB -->
   <a href="https://www.mongodb.com" target="_blank" >
@@ -97,6 +112,7 @@ front-end web developer with more than
 </div>
 
 ### :hammer_and_wrench: CMS:
+
 <div>
  <!-- Strapi -->
   <a href="https://strapi.io" target="_blank" >
@@ -109,6 +125,7 @@ front-end web developer with more than
 </div>
 
 ### :hammer_and_wrench: Other Tech:
+
 <div>
  <!-- HTML -->
   <a href="https://www.mongodb.com" target="_blank" >
