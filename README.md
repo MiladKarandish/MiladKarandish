@@ -20,8 +20,7 @@
 
 ## 👋 About Me :
 
-front-end web developer with more than
-3 years of experience.
+front-end web developer with nearly 4 years of experience.
 
 <!-- Skills -->
 
